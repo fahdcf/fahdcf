@@ -1,31 +1,45 @@
-<div align="center">
-
-# Fahd Chafai
-
-### Java Backend · Full-Stack Development · Applied AI
-
-Final-year Software Engineering student at **ENSA Al Hoceïma, Morocco**.  
-Building secure APIs, collaborative platforms, and useful AI features.
-
-<p>
-  <a href="https://www.linkedin.com/in/fahd-chafai-6a8976331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:fahdchafai427@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-18181B?style=flat-square" alt="Email Fahd" /></a>
-  <a href="https://github.com/fahdcf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-18181B?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<p align="center">
+  <img src="./fahd-chafai-banner.png" width="100%" alt="Fahd Chafai — Software Engineering · Java Backend / Full-Stack / Applied AI" />
 </p>
 
-<a href="mailto:fahdchafai427@gmail.com?subject=PFE%202027%20Opportunity"><img src="https://img.shields.io/badge/Open_to-PFE_2027-F97316?style=flat-square" alt="Open to PFE internships in 2027" /></a>
+<div align="center">
+
+**Secure APIs. Collaborative platforms. Useful AI features.**
+
+<p>
+  <a href="https://www.linkedin.com/in/fahd-chafai-6a8976331/"><img src="https://img.shields.io/badge/LinkedIn-Connect-202020?style=for-the-badge&labelColor=121212" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:fahdchafai427@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-202020?style=for-the-badge&labelColor=121212" alt="Email Fahd" /></a>
+  <a href="https://github.com/fahdcf?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_work-202020?style=for-the-badge&labelColor=121212&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+</p>
+
+<a href="mailto:fahdchafai427@gmail.com?subject=PFE%202027%20Opportunity"><img src="https://img.shields.io/badge/Open_to-PFE_2027-C76B29?style=flat-square&labelColor=181818" alt="Open to PFE internships in 2027" /></a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="72%" valign="top">
+
 ## About me
 
-I'm a software engineering student graduating in **2027**, with a strong interest in **Java backend development**. I also work across frontend applications and AI integrations to turn an idea into a complete product.
+I'm a final-year software engineering student at **ENSA Al Hoceïma, Morocco**, graduating in **2027**, with a strong interest in **Java backend development**. I also work across frontend applications and AI integrations to turn an idea into a complete product.
 
 My experience includes recruitment workflows at **GiantLink Technologies**, a parcel delivery platform at **NewDev Maroc**, and projects in team collaboration, microservices, and AI-assisted content creation.
 
 I care about clear business rules, permissions enforced on the server, and code I can test and explain.
+
+</td>
+<td width="28%" align="center" valign="middle">
+  <img src="./coding-companion.png" width="240" alt="A charcoal and copper coding companion working at a laptop" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./code-backend-ai.png" width="800" alt="Code, backend systems, AI, and a database connected by copper streams" />
+</p>
 
 ## Selected work
 
@@ -83,12 +97,12 @@ A Java desktop application with a six-stage learning path, AI answer scoring, ro
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-F97316?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Angular-18181B?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Java-C76B29?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-202020?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-202020?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-202020?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-202020?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-202020?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 | Area | Technologies & practices |
@@ -137,4 +151,3 @@ A Java desktop application with a six-stage learning path, AI answer scoring, ro
 [LinkedIn](https://www.linkedin.com/in/fahd-chafai-6a8976331/) · [Email](mailto:fahdchafai427@gmail.com) · [Repositories](https://github.com/fahdcf?tab=repositories)
 
 </div>
-
